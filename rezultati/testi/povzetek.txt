@@ -1,0 +1,35 @@
+
+primer_predloga_projekt: 16 vozlisc, 9 celic.
+Zgled: 256/256 koeficientov A in 16/16 vrednosti b tocnih. max |T-Tref| = 4.25520666e-05 K.
+dx = 1 m; nnz = 38.
+CSR in geometrija: ponovno prebrani podatki so enaki izvirnim.
+Tmin 50.000000, Tmax 300.000000 stopinj C; max |AT-b| 5.82e-11.
+
+lopatica_mreza: 5152 vozlisc, 4763 celic.
+dx = 0.00025 m; nnz = 24996.
+CSR in geometrija: ponovno prebrani podatki so enaki izvirnim.
+Tmin 641.975248, Tmax 1127.070907 stopinj C; max |AT-b| 1.26e-12.
+Povprecje zunanjega roba 920.272, kanalov 726.416 stopinj C.
+Toplotni tokovi skupin [W/m]: 3928.284100 35649.616196 37265.610888 -76843.511184; relativna bilanca 6.72e-15.
+
+lopatica_mreza_r1: 19837 vozlisc, 19052 celic.
+dx = 0.000125 m; nnz = 97629.
+CSR in geometrija: ponovno prebrani podatki so enaki izvirnim.
+Tmin 641.051142, Tmax 1128.642759 stopinj C; max |AT-b| 2.21e-12.
+Povprecje zunanjega roba 920.640, kanalov 726.155 stopinj C.
+Toplotni tokovi skupin [W/m]: 3984.195464 35585.060663 37201.894262 -76771.150390; relativna bilanca 9e-15.
+
+lopatica_mreza_r2: 77785 vozlisc, 76208 celic.
+dx = 6.25e-05 m; nnz = 385785.
+CSR in geometrija: ponovno prebrani podatki so enaki izvirnim.
+Tmin 640.702272, Tmax 1129.380354 stopinj C; max |AT-b| 1.85e-12.
+Povprecje zunanjega roba 920.753, kanalov 726.051 stopinj C.
+Toplotni tokovi skupin [W/m]: 3977.744309 35588.457461 37176.064335 -76742.266105; relativna bilanca 1.47e-14.
+
+lopatica_mreza_r3: 307993 vozlisc, 304832 celic.
+dx = 3.125e-05 m; nnz = 1533657.
+CSR in geometrija: ponovno prebrani podatki so enaki izvirnim.
+Prosti RAM 1.65 GiB; zahtevana rezerva 2.35 GiB.
+Direktna resitev preskocena zaradi pomnilniske ocene.
+
+Obdelava koncana.
